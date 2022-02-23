@@ -1,0 +1,116 @@
+header figure {
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+header nav {
+    margin-left: 0px;
+}
+
+header figcaption {
+    color: #d4d1d125;
+}
+.navbar{
+    margin-left: 0px;
+}
+header h1 {
+    font-weight: normal;
+    color: aliceblue;
+    text-align: center;
+}
+nav{
+    text-align: left;
+}
+header img {
+    width: 250px;
+    height: 250px;
+}
+
+section{
+    padding-top: 20px;
+    background-color: aliceblue;
+}
+body{
+    background-color: #d4d1d125;
+}
+legend{
+    color: aliceblue;
+}
+h2 {
+    background-color: rgb(69, 107, 66);
+    padding-top: 20px;
+    color: white;
+    text-align: left;
+    margin-left: -20px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+
+}
+header p {
+    color: aliceblue;
+}
+header {
+    background-color: black;
+}
+footer{
+    font-size: 18px;
+    text-align: left;
+}
+#fleche{
+    width: 50px;
+    height: 50px;
+}
+
+#index{
+    background-color: aliceblue;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-right: 300px;
+    padding-right: 30px;
+}
+
+.divImage{
+    display: inline-block;
+}
+
+section {
+    background-color: black;
+    margin-top: 30px;
+    padding-left: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-right: 30px;
+}
+
+aside li {
+    list-style-type: none;
+} 
+
+
+.formulaire {
+    background-color: black;
+    margin-top: 30px;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-right: 310px;
+    padding-right: 30px;
+}
+section figcaption{
+    color: aliceblue;
+}
+section p{
+    color: aliceblue;
+}
+.filter{
+    position: absolute;
+    padding-top: 60px;
+    padding-left: 1200px;
+    margin-bottom: -367px;
+    padding-right: 30px;
+}
+footer {
+    background-color: black;
+}
+footer p {
+    color: aliceblue;
+}
